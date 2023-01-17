@@ -1,1 +1,1 @@
-FROM registry.cn-shenzhen.aliyuncs.com/k8s-kubeadm/kube-dns:1.14.13
+FROM k8s.gcr.io/kube-dns:1.14.13
